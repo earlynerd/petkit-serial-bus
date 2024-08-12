@@ -110,3 +110,16 @@ This is not yet complete, and likely isnt fully correct.
 
 `0x15` always arrives after a door close command, along with 0x0A.typical payloads: `0x0352`, `0x04E1` 
 
+# Other Data
+
+## Flash Dumps
+I've been able to dump the flash on both microcontrollers, uploaded here. Theres tons of strings in the esp8266 binary but none to speak of in the M0 flash. 
+
+## logic analyzer captures
+These can be viewed using Saleae's free Logic software. The CSV files are exports from these files.
+
+## Python Scripts
+petkitParser.py is able to parse packets out of a logic analyzer CSV file
+petkitMaster.py is able to directly send commands and parse responses on the bus. 
+Theres a debug header with the pins exposed on the control board, and it works best if the ESP8266 is held in reset while an external device takes control of the bus. 
+
