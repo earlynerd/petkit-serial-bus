@@ -10,6 +10,9 @@ What I've learned is that the ESP8266 and the ARM M0 use a pretty simple and wel
 Packets on the bus have a rigid structure and so are easy to receive and parse properly. Here is an example packet:
 
 # Command Packet Structure
+
+![/pictures/get_status.png]
+![/pictures/get_status_2.png]
  
 `AA AA 07 01 01 59 9B`
 
