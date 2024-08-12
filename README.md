@@ -11,8 +11,8 @@ Packets on the bus have a rigid structure and so are easy to receive and parse p
 
 # Command Packet Structure
 
-![/pictures/get_status.png]
-![/pictures/get_status_2.png]
+![get status command and responses](/pictures/get_status.png)
+![command packet](/pictures/get_status_2.png)
  
 `AA AA 07 01 01 59 9B`
 
