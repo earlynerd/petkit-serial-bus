@@ -1,0 +1,292 @@
+name,type,start_time,duration,"data"
+"Async Serial","data",18.554790936,0.000082464,0xAA
+"Async Serial","data",18.554877448,0.000082464,0xAA
+"Async Serial","data",18.554963932,0.000082464,0x12
+"Async Serial","data",18.5550504,0.000082464,0x02
+"Async Serial","data",18.55513692,0.000082464,0xFF
+"Async Serial","data",18.55522344,0.000082464,0x00
+"Async Serial","data",18.555309956,0.000082464,0x00
+"Async Serial","data",18.555396476,0.000082464,0x01
+"Async Serial","data",18.555482972,0.000082464,0x00
+"Async Serial","data",18.555569436,0.000082464,0x02
+"Async Serial","data",18.555655924,0.000082464,0x00
+"Async Serial","data",18.555742436,0.000082464,0x00
+"Async Serial","data",18.555828964,0.000082464,0x07
+"Async Serial","data",18.55591548,0.000082464,0x67
+"Async Serial","data",18.556002004,0.000082464,0x01
+"Async Serial","data",18.556088528,0.000082464,0xDD
+"Async Serial","data",18.556175028,0.000082464,0xBC
+"Async Serial","data",18.556261484,0.000082464,0xEF
+"Async Serial [1]","data",18.578669308,0.000082464,0xAA
+"Async Serial [1]","data",18.57875606,0.000082464,0xAA
+"Async Serial [1]","data",18.578842808,0.000082464,0x07
+"Async Serial [1]","data",18.578929556,0.000082464,0x01
+"Async Serial [1]","data",18.579016308,0.000082464,0x2A
+"Async Serial [1]","data",18.579103056,0.000082464,0xCC
+"Async Serial [1]","data",18.579189804,0.000082464,0x92
+"Async Serial","data",18.595205792,0.000082464,0xAA
+"Async Serial","data",18.59529232,0.000082464,0xAA
+"Async Serial","data",18.595378848,0.000082464,0x08
+"Async Serial","data",18.595465424,0.000082464,0x01
+"Async Serial","data",18.595551924,0.000082464,0x2A
+"Async Serial","data",18.595638452,0.000082464,0x01
+"Async Serial","data",18.595724972,0.000082464,0x4E
+"Async Serial","data",18.595811484,0.000082464,0x0F
+"Async Serial","data",18.600599448,0.000082464,0xAA
+"Async Serial","data",18.600685904,0.000082464,0xAA
+"Async Serial","data",18.60077236,0.000082464,0x12
+"Async Serial","data",18.600858764,0.000082464,0x02
+"Async Serial","data",18.60094518,0.000082464,0x2A
+"Async Serial","data",18.601031612,0.000082464,0x00
+"Async Serial","data",18.601118064,0.000082464,0x00
+"Async Serial","data",18.60120452,0.000082464,0x01
+"Async Serial","data",18.601290992,0.000082464,0x00
+"Async Serial","data",18.601377444,0.000082464,0x02
+"Async Serial","data",18.60146392,0.000082464,0x00
+"Async Serial","data",18.601550412,0.000082464,0x00
+"Async Serial","data",18.601636912,0.000082464,0x07
+"Async Serial","data",18.601723384,0.000082464,0x67
+"Async Serial","data",18.60180988,0.000082464,0x01
+"Async Serial","data",18.60189642,0.000082464,0xDD
+"Async Serial","data",18.601982944,0.000082464,0xF2
+"Async Serial","data",18.602069492,0.000082464,0xFF
+"Async Serial [1]","data",18.678573996,0.000082464,0xAA
+"Async Serial [1]","data",18.678660748,0.000082464,0xAA
+"Async Serial [1]","data",18.678747496,0.000082464,0x0E
+"Async Serial [1]","data",18.678834244,0.000082464,0x0E
+"Async Serial [1]","data",18.678920996,0.000082464,0x1F
+"Async Serial [1]","data",18.679007744,0.000082464,0x01
+"Async Serial [1]","data",18.679094492,0.000082464,0x00
+"Async Serial [1]","data",18.679181244,0.000082464,0x00
+"Async Serial [1]","data",18.679267992,0.000082464,0x03
+"Async Serial [1]","data",18.679354744,0.000082464,0xE8
+"Async Serial [1]","data",18.679441492,0.000082464,0xFF
+"Async Serial [1]","data",18.67952824,0.000082464,0xFF
+"Async Serial [1]","data",18.679614992,0.000082464,0xE5
+"Async Serial [1]","data",18.67970174,0.000082464,0x80
+"Async Serial [1]","data",18.688528608,0.000082464,0xAA
+"Async Serial [1]","data",18.688615356,0.000082464,0xAA
+"Async Serial [1]","data",18.688702108,0.000082464,0x0E
+"Async Serial [1]","data",18.688788856,0.000082464,0x0E
+"Async Serial [1]","data",18.688875604,0.000082464,0x20
+"Async Serial [1]","data",18.688962356,0.000082464,0x02
+"Async Serial [1]","data",18.689049104,0.000082464,0x00
+"Async Serial [1]","data",18.689135852,0.000082464,0x00
+"Async Serial [1]","data",18.689222604,0.000082464,0x03
+"Async Serial [1]","data",18.689309352,0.000082464,0xE8
+"Async Serial [1]","data",18.689396104,0.000082464,0xFF
+"Async Serial [1]","data",18.689482852,0.000082464,0xFF
+"Async Serial [1]","data",18.6895696,0.000082464,0xA2
+"Async Serial [1]","data",18.689656352,0.000082464,0x1C
+"Async Serial","data",18.695559312,0.000082464,0xAA
+"Async Serial","data",18.69564586,0.000082464,0xAA
+"Async Serial","data",18.695732408,0.000082464,0x08
+"Async Serial","data",18.69581894,0.000082464,0x0E
+"Async Serial","data",18.69590548,0.000082464,0x1F
+"Async Serial","data",18.695992028,0.000082464,0x01
+"Async Serial","data",18.696078572,0.000082464,0x98
+"Async Serial","data",18.696165144,0.000082464,0x5E
+"Async Serial","data",18.7156191,0.000082464,0xAA
+"Async Serial","data",18.715705668,0.000082464,0xAA
+"Async Serial","data",18.715792236,0.000082464,0x08
+"Async Serial","data",18.715878808,0.000082464,0x0E
+"Async Serial","data",18.715965388,0.000082464,0x20
+"Async Serial","data",18.716051948,0.000082464,0x01
+"Async Serial","data",18.716138512,0.000082464,0x8D
+"Async Serial","data",18.716225068,0.000082464,0xF5
+"Async Serial","data",18.936651396,0.000082464,0xAA
+"Async Serial","data",18.9367382,0.000082464,0xAA
+"Async Serial","data",18.93682502,0.000082464,0x12
+"Async Serial","data",18.93691184,0.000082464,0x02
+"Async Serial","data",18.936998648,0.000082464,0xFF
+"Async Serial","data",18.937085456,0.000082464,0x00
+"Async Serial","data",18.937172232,0.000082464,0x00
+"Async Serial","data",18.937258984,0.000082464,0x01
+"Async Serial","data",18.937345792,0.000082464,0x00
+"Async Serial","data",18.937432604,0.000082464,0x02
+"Async Serial","data",18.937519404,0.000082464,0x00
+"Async Serial","data",18.937606212,0.000082464,0x00
+"Async Serial","data",18.937693028,0.000082464,0x07
+"Async Serial","data",18.93777984,0.000082464,0x79
+"Async Serial","data",18.93786666,0.000082464,0x01
+"Async Serial","data",18.937953472,0.000082464,0xE2
+"Async Serial","data",18.938040304,0.000082464,0x23
+"Async Serial","data",18.938127092,0.000082464,0x31
+"Async Serial [1]","data",21.318497484,0.000082464,0xAA
+"Async Serial [1]","data",21.318584232,0.000082464,0xAA
+"Async Serial [1]","data",21.318670984,0.000082464,0x07
+"Async Serial [1]","data",21.318757732,0.000082464,0x01
+"Async Serial [1]","data",21.31884448,0.000082464,0x2B
+"Async Serial [1]","data",21.318931232,0.000082464,0xDC
+"Async Serial [1]","data",21.31901798,0.000082464,0xB3
+"Async Serial","data",21.322663384,0.000082464,0xAA
+"Async Serial","data",21.322750012,0.000082464,0xAA
+"Async Serial","data",21.322836636,0.000082464,0x08
+"Async Serial","data",21.322923272,0.000082464,0x01
+"Async Serial","data",21.323009912,0.000082464,0x2B
+"Async Serial","data",21.323096552,0.000082464,0x01
+"Async Serial","data",21.323183204,0.000082464,0x7D
+"Async Serial","data",21.323269824,0.000082464,0x3E
+"Async Serial","data",21.328063084,0.000082464,0xAA
+"Async Serial","data",21.32814972,0.000082464,0xAA
+"Async Serial","data",21.328236276,0.000082464,0x12
+"Async Serial","data",21.328322932,0.000082464,0x02
+"Async Serial","data",21.328409588,0.000082464,0x2B
+"Async Serial","data",21.328496168,0.000082464,0x00
+"Async Serial [1]","data",21.32857472,0.000082464,0xAA
+"Async Serial","data",21.3285827,0.000082464,0x00
+"Async Serial [1]","data",21.328661468,0.000082464,0xAA
+"Async Serial","data",21.328669188,0.000082464,0x01
+"Async Serial [1]","data",21.32874822,0.000082464,0x0E
+"Async Serial","data",21.328755696,0.000082464,0x00
+"Async Serial [1]","data",21.328834968,0.000082464,0x0E
+"Async Serial","data",21.328842236,0.000082464,0x02
+"Async Serial [1]","data",21.328921716,0.000082464,0x21
+"Async Serial","data",21.328928784,0.000082464,0x00
+"Async Serial [1]","data",21.329008468,0.000082464,0x02
+"Async Serial","data",21.329015348,0.000082464,0x00
+"Async Serial [1]","data",21.329095216,0.000082464,0x03
+"Async Serial","data",21.329101908,0.000082464,0x07
+"Async Serial [1]","data",21.329181964,0.000082464,0xE8
+"Async Serial","data",21.329188452,0.000082464,0x67
+"Async Serial [1]","data",21.329268716,0.000082464,0x03
+"Async Serial","data",21.329275044,0.000082464,0x01
+"Async Serial [1]","data",21.329355464,0.000082464,0xE8
+"Async Serial","data",21.329361616,0.000082464,0xDD
+"Async Serial [1]","data",21.329442212,0.000082464,0xFF
+"Async Serial","data",21.329448196,0.000082464,0xF1
+"Async Serial [1]","data",21.329528964,0.000082464,0xFF
+"Async Serial","data",21.32953478,0.000082464,0x8A
+"Async Serial [1]","data",21.329615712,0.000082464,0x12
+"Async Serial [1]","data",21.32970246,0.000082464,0x0E
+"Async Serial","data",21.342734864,0.000082464,0xAA
+"Async Serial","data",21.342821396,0.000082464,0xAA
+"Async Serial","data",21.342907972,0.000082464,0x08
+"Async Serial","data",21.342994556,0.000082464,0x0E
+"Async Serial","data",21.34308116,0.000082464,0x21
+"Async Serial","data",21.343167752,0.000082464,0x01
+"Async Serial","data",21.343254328,0.000082464,0xBE
+"Async Serial","data",21.34334094,0.000082464,0xC4
+"Async Serial","data",23.950248964,0.000082464,0xAA
+"Async Serial","data",23.950335588,0.000082464,0xAA
+"Async Serial","data",23.9504222,0.000082464,0x12
+"Async Serial","data",23.950508796,0.000082464,0x02
+"Async Serial","data",23.950595384,0.000082464,0xFF
+"Async Serial","data",23.950681984,0.000082464,0x00
+"Async Serial","data",23.950768552,0.000082464,0x00
+"Async Serial","data",23.950855124,0.000082464,0x01
+"Async Serial","data",23.950941692,0.000082464,0x00
+"Async Serial","data",23.951028252,0.000082464,0x02
+"Async Serial","data",23.95111482,0.000082464,0x00
+"Async Serial","data",23.951201396,0.000082464,0x00
+"Async Serial","data",23.951287968,0.000082464,0x07
+"Async Serial","data",23.951374516,0.000082464,0x79
+"Async Serial","data",23.951461068,0.000082464,0x01
+"Async Serial","data",23.951547652,0.000082464,0xE2
+"Async Serial","data",23.95163424,0.000082464,0x23
+"Async Serial","data",23.951720828,0.000082464,0x31
+"Async Serial","data",28.961370828,0.000082464,0xAA
+"Async Serial","data",28.961457388,0.000082464,0xAA
+"Async Serial","data",28.961543876,0.000082464,0x12
+"Async Serial","data",28.961630416,0.000082464,0x02
+"Async Serial","data",28.961716948,0.000082464,0xFF
+"Async Serial","data",28.961803484,0.000082464,0x00
+"Async Serial","data",28.961889988,0.000082464,0x00
+"Async Serial","data",28.961976516,0.000082464,0x01
+"Async Serial","data",28.962063068,0.000082464,0x00
+"Async Serial","data",28.962149648,0.000082464,0x02
+"Async Serial","data",28.962236232,0.000082464,0x00
+"Async Serial","data",28.962322796,0.000082464,0x00
+"Async Serial","data",28.96240936,0.000082464,0x07
+"Async Serial","data",28.962495868,0.000082464,0x79
+"Async Serial","data",28.962582356,0.000082464,0x01
+"Async Serial","data",28.96266892,0.000082464,0xE2
+"Async Serial","data",28.962755516,0.000082464,0x23
+"Async Serial","data",28.962842072,0.000082464,0x31
+"Async Serial","data",33.9811839,0.000082464,0xAA
+"Async Serial","data",33.981270528,0.000082464,0xAA
+"Async Serial","data",33.98135712,0.000082464,0x12
+"Async Serial","data",33.981443688,0.000082464,0x02
+"Async Serial","data",33.981530272,0.000082464,0xFF
+"Async Serial","data",33.981616908,0.000082464,0x00
+"Async Serial","data",33.981703556,0.000082464,0x00
+"Async Serial","data",33.981790152,0.000082464,0x01
+"Async Serial","data",33.981876752,0.000082464,0x00
+"Async Serial","data",33.981963336,0.000082464,0x02
+"Async Serial","data",33.982049916,0.000082464,0x00
+"Async Serial","data",33.982136508,0.000082464,0x00
+"Async Serial","data",33.982223088,0.000082464,0x07
+"Async Serial","data",33.982309668,0.000082464,0x78
+"Async Serial","data",33.982396232,0.000082464,0x01
+"Async Serial","data",33.982482804,0.000082464,0xE1
+"Async Serial","data",33.9825694,0.000082464,0x24
+"Async Serial","data",33.98265598,0.000082464,0x62
+"Async Serial","data",38.995109592,0.000082464,0xAA
+"Async Serial","data",38.99519612,0.000082464,0xAA
+"Async Serial","data",38.995282652,0.000082464,0x12
+"Async Serial","data",38.995369184,0.000082464,0x02
+"Async Serial","data",38.995455692,0.000082464,0xFF
+"Async Serial","data",38.995542236,0.000082464,0x00
+"Async Serial","data",38.995628828,0.000082464,0x00
+"Async Serial","data",38.995715472,0.000082464,0x01
+"Async Serial","data",38.995802156,0.000082464,0x00
+"Async Serial","data",38.99588882,0.000082464,0x02
+"Async Serial","data",38.995975444,0.000082464,0x00
+"Async Serial","data",38.996062056,0.000082464,0x00
+"Async Serial","data",38.996148624,0.000082464,0x07
+"Async Serial","data",38.996235232,0.000082464,0x79
+"Async Serial","data",38.99632184,0.000082464,0x01
+"Async Serial","data",38.996408408,0.000082464,0xE2
+"Async Serial","data",38.996494976,0.000082464,0x23
+"Async Serial","data",38.996581556,0.000082464,0x31
+"Async Serial","data",44.017163552,0.000082464,0xAA
+"Async Serial","data",44.01725012,0.000082464,0xAA
+"Async Serial","data",44.017336716,0.000082464,0x12
+"Async Serial","data",44.017423304,0.000082464,0x02
+"Async Serial","data",44.017509884,0.000082464,0xFF
+"Async Serial","data",44.017596484,0.000082464,0x00
+"Async Serial","data",44.017683064,0.000082464,0x00
+"Async Serial","data",44.017769628,0.000082464,0x01
+"Async Serial","data",44.01785622,0.000082464,0x00
+"Async Serial","data",44.017942816,0.000082464,0x02
+"Async Serial","data",44.01802942,0.000082464,0x00
+"Async Serial","data",44.018116012,0.000082464,0x00
+"Async Serial","data",44.018202576,0.000082464,0x07
+"Async Serial","data",44.018289108,0.000082464,0x77
+"Async Serial","data",44.018375692,0.000082464,0x01
+"Async Serial","data",44.018462284,0.000082464,0xE1
+"Async Serial","data",44.018548864,0.000082464,0x08
+"Async Serial","data",44.018635444,0.000082464,0x53
+"Async Serial","data",49.033054872,0.000082464,0xAA
+"Async Serial","data",49.033141548,0.000082464,0xAA
+"Async Serial","data",49.033228204,0.000082464,0x12
+"Async Serial","data",49.033314876,0.000082464,0x02
+"Async Serial","data",49.03340154,0.000082464,0xFF
+"Async Serial","data",49.033488196,0.000082464,0x00
+"Async Serial","data",49.03357486,0.000082464,0x00
+"Async Serial","data",49.033661524,0.000082464,0x01
+"Async Serial","data",49.033748208,0.000082464,0x00
+"Async Serial","data",49.03383488,0.000082464,0x02
+"Async Serial","data",49.033921532,0.000082464,0x00
+"Async Serial","data",49.034008144,0.000082464,0x00
+"Async Serial","data",49.034094788,0.000082464,0x07
+"Async Serial","data",49.034181412,0.000082464,0x77
+"Async Serial","data",49.034268012,0.000082464,0x01
+"Async Serial","data",49.034354676,0.000082464,0xE1
+"Async Serial","data",49.03444134,0.000082464,0x08
+"Async Serial","data",49.034527976,0.000082464,0x53
+"Async Serial [1]","data",49.988410244,0.000082464,0xAA
+"Async Serial [1]","data",49.988496992,0.000082464,0xAA
+"Async Serial [1]","data",49.988583744,0.000082464,0x07
+"Async Serial [1]","data",49.988670492,0.000082464,0x0F
+"Async Serial [1]","data",49.98875724,0.000082464,0x05
+"Async Serial [1]","data",49.988843992,0.000082464,0x3A
+"Async Serial [1]","data",49.98893074,0.000082464,0x10
+"Async Serial","data",49.994424912,0.000082464,0xAA
+"Async Serial","data",49.9945116,0.000082464,0xAA
+"Async Serial","data",49.99459822,0.000082464,0x08
+"Async Serial","data",49.99468484,0.000082464,0x0F
+"Async Serial","data",49.994771448,0.000082464,0x05
+"Async Serial","data",49.99485808,0.000082464,0x01
+"Async Serial","data",49.994944716,0.000082464,0x43
+"Async Serial","data",49.995031368,0.000082464,0xD6
