@@ -6,8 +6,9 @@ and for all the high level operations, and it has an ARM cortex M0 (Nuvoton ISD9
 Mine was purchased used from the petkit ebay store, and has never worked. Refuses to connect to their app. but does actually connect to my wifi. Why does it need to conenct to their app anyway?
 I couldnt return it so i took it apart. 
 
-What I've learned is that the ESP8266 and the ARM M0 use a pretty simple and well implemented protocol to exchange a few bytes of command and status data. I`ve worked outr the protocol and manyt of the command and response types. 
-Packets on the bus have a rigid structure and so are easy to receive and parse properly. Here is an example packet:
+What I've learned is that the ESP8266 and the ARM M0 use a pretty simple and well implemented protocol to exchange a few bytes of command and status data. I've worked out the protocol and many of the command and response types. 
+Packets on the bus have a rigid structure and so are easy to receive and parse properly. They are sent at 115200 baud. The ESP8266 has only one full UART and it is shared with the bootloader.
+Here is an example packet:
 
 # Command Packet Structure
 
@@ -27,6 +28,8 @@ Packets on the bus have a rigid structure and so are easy to receive and parse p
 `59 9B`: CRC-16 CCITT code, with 0xFFFF seed value. calculated over the whole packet including its header.
 
 # Response Packet Structure
+
+![get status acknowledgement](/pictures/status_ack.png)
 
 the expected response to this packet is two more packets in reply.
 
@@ -62,6 +65,8 @@ The second is the status packet requested.
 
 
 # Petkit Bus Command Table and Notes
+
+This is not yet complete, and likely isnt fully correct.
 
 `0x01` get status. no payload
 
