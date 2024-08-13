@@ -110,6 +110,73 @@ This is not yet complete, and likely isnt fully correct.
 
 `0x15` always arrives after a door close command, along with 0x0A.typical payloads: `0x0352`, `0x04E1` 
 
+# Boot up Sequence and values
+```
+ISD91230: packet type: 0, length: 7, seq: 0, crc: 7A8B [Valid!], 
+ISD91230: packet type: 2, length: 18, seq: 255, crc: F981 [Valid!],  Data: 0x0001010918024A0D030347
+ESP8266: packet type: 1, length: 7, seq: 1, crc: 599B [Valid!], 
+ISD91230: packet type: 1, length: 8, seq: 1, crc: 9413 [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 1, crc: 3CD8 [Valid!],  Data: 0x00010108ED023F086D021F
+ESP8266: packet type: 19, length: 9, seq: 1, crc: DF3E [Valid!],  Data: 0x057E
+ESP8266: packet type: 3, length: 11, seq: 1, crc: 6CFA [Valid!],  Data: 0x00050005
+ISD91230: packet type: 19, length: 8, seq: 1, crc: B910 [Valid!],  Data: 0x01
+ISD91230: packet type: 20, length: 9, seq: 1, crc: AE3B [Valid!],  Data: 0x0004
+ESP8266: packet type: 1, length: 7, seq: 2, crc: 69F8 [Valid!], 
+ESP8266: packet type: 5, length: 9, seq: 1, crc: D309 [Valid!],  Data: 0x0005
+ISD91230: packet type: 3, length: 8, seq: 1, crc: FA73 [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 2, crc: 3947 [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 5, length: 8, seq: 1, crc: 48D3 [Valid!],  Data: 0x01
+ISD91230: packet type: 4, length: 8, seq: 1, crc: 7FE3 [Valid!],  Data: 0x01
+ESP8266: packet type: 4, length: 11, seq: 1, crc: CE7D [Valid!],  Data: 0x00FF00FF
+ISD91230: packet type: 6, length: 8, seq: 1, crc: 1183 [Valid!],  Data: 0x01
+ESP8266: packet type: 6, length: 9, seq: 1, crc: 057F [Valid!],  Data: 0xFFFF
+ISD91230: packet type: 13, length: 8, seq: 1, crc: E172 [Valid!],  Data: 0x01
+ESP8266: packet type: 13, length: 19, seq: 1, crc: 62BA [Valid!],  Data: 0x003C0190F01222201F4F01
+ISD91230: packet type: 1, length: 8, seq: 3, crc: F271 [Valid!],  Data: 0x01
+ESP8266: packet type: 1, length: 7, seq: 3, crc: 79D9 [Valid!], 
+ESP8266: packet type: 1, length: 7, seq: 4, crc: 093E [Valid!], 
+ISD91230: packet type: 2, length: 18, seq: 3, crc: 3A32 [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 1, length: 8, seq: 4, crc: 6BE6 [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 4, crc: 3279 [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 13, length: 8, seq: 2, crc: B421 [Valid!],  Data: 0x01
+ESP8266: packet type: 13, length: 19, seq: 2, crc: AD1F [Valid!],  Data: 0x003C0190F01222201F4F01
+ESP8266: packet type: 1, length: 7, seq: 5, crc: 191F [Valid!], 
+ISD91230: packet type: 1, length: 8, seq: 5, crc: 58D7 [Valid!],  Data: 0x01
+ESP8266: packet type: 1, length: 7, seq: 6, crc: 297C [Valid!], 
+ISD91230: packet type: 2, length: 18, seq: 5, crc: 896D [Valid!],  Data: 0x00010108EC023F086D021F
+ISD91230: packet type: 1, length: 8, seq: 6, crc: 0D84 [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 6, crc: 3493 [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 1, length: 8, seq: 7, crc: 3EB5 [Valid!],  Data: 0x01
+ESP8266: packet type: 1, length: 7, seq: 7, crc: 395D [Valid!], 
+ESP8266: packet type: 1, length: 7, seq: 8, crc: C8B2 [Valid!], 
+ISD91230: packet type: 2, length: 18, seq: 7, crc: 37E6 [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 1, length: 8, seq: 8, crc: 2E8B [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 8, crc: 2405 [Valid!],  Data: 0x00010108ED023F086D021F
+ESP8266: packet type: 1, length: 7, seq: 9, crc: D893 [Valid!], 
+ISD91230: packet type: 1, length: 8, seq: 9, crc: 1DBA [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 9, crc: 2770 [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 1, length: 8, seq: 10, crc: 48E9 [Valid!],  Data: 0x01
+ESP8266: packet type: 1, length: 7, seq: 10, crc: E8F0 [Valid!], 
+ISD91230: packet type: 2, length: 18, seq: 10, crc: 67ED [Valid!],  Data: 0x00010108ED023F0861021C
+ISD91230: packet type: 14, length: 8, seq: 1, crc: B822 [Valid!],  Data: 0x01
+ESP8266: packet type: 14, length: 14, seq: 1, crc: B1E4 [Valid!],  Data: 0x0103E803E8FFFF
+ESP8266: packet type: 14, length: 14, seq: 2, crc: 56D2 [Valid!],  Data: 0x02000003E8FFFF
+ISD91230: packet type: 14, length: 8, seq: 2, crc: ED71 [Valid!],  Data: 0x01
+ISD91230: packet type: 2, length: 18, seq: 255, crc: 025F [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 14, length: 8, seq: 3, crc: DE40 [Valid!],  Data: 0x01
+ESP8266: packet type: 14, length: 14, seq: 3, crc: AC0E [Valid!],  Data: 0x0103E80000FFFF
+ISD91230: packet type: 2, length: 18, seq: 255, crc: 025F [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 2, length: 18, seq: 255, crc: 025F [Valid!],  Data: 0x00010108ED023F086D021F
+ESP8266: packet type: 14, length: 14, seq: 4, crc: 7FBA [Valid!],  Data: 0x0300C800C80002
+ISD91230: packet type: 14, length: 8, seq: 4, crc: 47D7 [Valid!],  Data: 0x01
+ISD91230: packet type: 14, length: 8, seq: 5, crc: 74E6 [Valid!],  Data: 0x01
+ESP8266: packet type: 14, length: 14, seq: 5, crc: 0C75 [Valid!],  Data: 0x0100640064FFFF
+ISD91230: packet type: 2, length: 18, seq: 255, crc: CB35 [Valid!],  Data: 0x00010108EA023F08470216
+ISD91230: packet type: 2, length: 18, seq: 255, crc: FBF2 [Valid!],  Data: 0x00010108EE0240086E021F
+ISD91230: packet type: 2, length: 18, seq: 255, crc: 025F [Valid!],  Data: 0x00010108ED023F086D021F
+ISD91230: packet type: 2, length: 18, seq: 255, crc: EB7D [Valid!],  Data: 0x00010108EF024008710220
+```
+
 # Other Data
 
 ## Flash Dumps
