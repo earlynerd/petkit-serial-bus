@@ -9,12 +9,19 @@ I couldnt return it so i took it apart.
 # Hardware 
 
 "wifi reset" pushbutton = gpio_0;
+
 "manual feed" pushbutton = gpio_13;
+
 uart_rx_pin = gpio_3;
+
 uart_tx_pin = gpio_1;
+
 isd91230_reset_pin = gpio_15;
+
 i2c_sda_pin = gpio_5;
+
 i2c_scl_pin = gpio_14;
+
 unknown pins = {16, 12, 4, 2}
 
 Theres a PCF8563 rtc with backup battery attached to the i2c bus and no other i2c devices.
