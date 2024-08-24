@@ -6,6 +6,22 @@ and for all the high level operations, and it has an ARM cortex M0 (Nuvoton ISD9
 Mine was purchased used from the petkit ebay store, and has never worked. Refuses to connect to their app. but does actually connect to my wifi. Why does it need to conenct to their app anyway?
 I couldnt return it so i took it apart. 
 
+# Hardware 
+
+"wifi reset" pushbutton = gpio_0;
+"manual feed" pushbutton = gpio_13;
+uart_rx_pin = gpio_3;
+uart_tx_pin = gpio_1;
+isd91230_reset_pin = gpio_15;
+i2c_sda_pin = gpio_5;
+i2c_scl_pin = gpio_14;
+unknown pins = {16, 12, 4, 2}
+
+Theres a PCF8563 rtc with backup battery attached to the i2c bus and no other i2c devices.
+probably pin 16 is used to wake the esp8266 from deep sleep but I havent figured out how that works exactly yet.
+
+# UART Protocol
+
 What I've learned is that the ESP8266 and the ARM M0 use a pretty simple and well implemented protocol to exchange a few bytes of command and status data. I've worked out the protocol and many of the command and response types. 
 Packets on the bus have a rigid structure and so are easy to receive and parse properly. They are sent at 115200 baud. The ESP8266 has only one full UART and it is shared with the bootloader.
 Here is an example packet:
